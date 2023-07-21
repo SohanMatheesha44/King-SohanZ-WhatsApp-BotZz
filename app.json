@@ -1,0 +1,18 @@
+{
+  "name": "SohanZ-WhatsApp-BotZz",
+  "description": "Customizable WhatsApp Bot",
+  "repository": "https://github.com/SohanMatheesha44/King-SohanZ-WhatsApp-BotZz", 
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"],
+   "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },
+  {
+    "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+  }    
+ ]
+}
