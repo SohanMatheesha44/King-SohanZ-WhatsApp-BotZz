@@ -52,8 +52,8 @@
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button above
 
-## ```QR SCAN```
-[![Run on Repl.it](https://repl.it/badge/github/SohanMatheesha44/SohanZ-WhatsApp-BotZz)](https://scanner.repl.co)
+## ```QR SCAN`
+[![Run on Replit.co] [https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER] 
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ---------
 
